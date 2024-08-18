@@ -1,0 +1,37 @@
+h1 {
+    color: rgba(70, 140, 193, 0.463);
+    font-family: "ubuntu", sans-serif;
+    font-weight: bold;
+    font-size: 24;
+    line-height: 2;
+  }
+  h2 {
+    color: rgb(89, 177, 116);
+    font-family: "ubuntu", sans-serif;
+    font-weight: normal;
+    font-size: 18;
+    line-height: 1;
+    text-decoration: underline;
+  }
+  p {
+    color: rgb(20, 6, 6);
+    font-family: "quicksand", sans-serif;
+    font-weight: lighter;
+    font-size: 14;
+    line-height: 1;
+  }
+  figure {
+    float: left;
+    margin: 0 20px 20px 0;
+    max-width: 50%;
+  }
+  img {
+    max-width: 100%;
+  }
+  a {
+    color: blue;
+    font-family: "quicksand", sans-serif;
+    font-weight: lighter;
+    font-size: 14;
+    line-height: 1;
+  }
